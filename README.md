@@ -1,7 +1,7 @@
 # Certifiable Robustness and Robust Training for GCN
 
 <p align="center">
-<img src="https://www.kdd.in.tum.de/fileadmin/w00bxq/www/robust-gcn/figure.png" width="400">
+<img src="https://www.kdd.in.tum.de/fileadmin/w00bxq/www/robust-gcn/figure_small.png" width="400">
 </p>
 
 Implementation of the paper:   
