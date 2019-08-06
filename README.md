@@ -14,6 +14,9 @@ Copyright (C) 2019
 Daniel Zügner   
 Technical University of Munich    
 
+## Additional resources
+[[Paper](https://arxiv.org/pdf/1906.12269.pdf) | [Poster](http://www.kdd.in.tum.de/fileadmin/w00bxq/www/robust-gcn/robust_gcn_poster.pdf) | [Slides (KDD 2019)](http://www.kdd.in.tum.de/fileadmin/w00bxq/www/robust-gcn/kdd2019_presentation_flattened.pdf)]
+
 ## Run the code
  
 The fastest way to try our code is to use the Jupyter notebook `demo.ipynb`.
