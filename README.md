@@ -1,7 +1,7 @@
 # Certifiable Robustness and Robust Training for GCN
 
 <p align="center">
-<img src="https://www.kdd.in.tum.de/fileadmin/w00bxq/www/robust-gcn/figure.png" width="400">
+<img src="https://www.in.tum.de/fileadmin/w00bws/daml/robust-gcn/figure_small.png" width="400">
 </p>
 
 Implementation of the paper:   
@@ -15,7 +15,7 @@ Daniel Zügner
 Technical University of Munich    
 
 ## Additional resources
-[[Paper](https://arxiv.org/pdf/1906.12269.pdf) | [Poster](http://www.kdd.in.tum.de/fileadmin/w00bxq/www/robust-gcn/robust_gcn_poster.pdf) | [Slides (KDD 2019)](http://www.kdd.in.tum.de/fileadmin/w00bxq/www/robust-gcn/kdd2019_presentation_flattened.pdf)]
+[[Paper](https://arxiv.org/pdf/1906.12269.pdf) | [Poster](https://www.in.tum.de/fileadmin/w00bws/daml/robust-gcn/robust_gcn_poster.pdf) | [Slides (KDD 2019)](https://www.in.tum.de/fileadmin/w00bws/daml/robust-gcn/kdd2019_presentation_flattened.pdf)]
 
 ## Run the code
  
